@@ -21,6 +21,9 @@
 .header .nav li {
   margin-right: 10px;
 }
+.header .nav .active{
+  text-decoration: underline;
+}
 
 .header .nav li a {
   color: white;
